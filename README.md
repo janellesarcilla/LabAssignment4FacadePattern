@@ -1,3 +1,4 @@
+<img width="2054" height="1002" alt="Blank diagram-9" src="https://github.com/user-attachments/assets/74caf9bb-9ff4-4496-9b77-4058cf3414eb" />
 ## Simplified Hotel Management System
 
 The HotelApp needs to manage various hotel services for guest check-in and check-out. These services include valet parking for vehicles, room cleaning, and handling luggage carts. However, the HotelApp aims to interact with these services through a simplified, single interface provided by the FrontDesk. The FrontDesk class should delegate the client's requests to the appropriate service classes (Valet, HouseKeeping, Cart) while abstracting the service details from the client.
@@ -16,3 +17,5 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 - HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.# LabAssignment4FacadePattern
 
 ### UML Class Diagram
+<img width="2054" height="1002" alt="FacadeUML" src="https://github.com/user-attachments/assets/5877c432-ae6a-4a42-bf71-ca20c71368a7" />
+
