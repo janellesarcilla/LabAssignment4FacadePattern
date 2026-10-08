@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "facade/src",
+        "facade/FacadeDesign",
+        "facade",
+        "FacadePatternAssignment",
+        "FacadePattern",
+        "FacadeDesign",
+        "FacadeAssignment"
+    ]
+}
